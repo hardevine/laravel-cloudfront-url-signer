@@ -1,5 +1,5 @@
 {
-    "name": "dreamonkey/laravel-cloudfront-url-signer",
+    "name": "hardevine/laravel-cloudfront-url-signer",
     "description": "Laravel 5.5+ wrapper around CloudFront canned signed URLs",
     "keywords": [
         "dreamonkey",
