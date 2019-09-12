@@ -4,7 +4,7 @@ Easy to use Laravel 5.6+ wrapper around the official AWS PHP SDK which allows to
 Inspired by [laravel-url-signer](https://github.com/spatie/laravel-url-signer)
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/dreamonkey/laravel-cloudfront-url-signer.svg?style=flat-square)](https://packagist.org/packages/dreamonkey/laravel-cloudfront-url-signer)
-[![Total Downloads](https://img.shields.io/packagist/dt/dreamonkey/laravel-cloudfront-url-signer.svg?style=flat-square)](https://packagist.org/packages/dreamonkey/laravel-cloudfront-url-signer)
+[![Total Downloads](https://img.shields.io/packagist/dt/hardevine/laravel-cloudfront-url-signer.svg?style=flat-square)](https://packagist.org/packages/hardevine/laravel-cloudfront-url-signer)
 
 This package can create canned policies signed URLs for CloudFront which expires after a given time. This is done by wrapping the AWS SDK method adding a Laravel-style configuration and accessibility.
 
@@ -25,7 +25,7 @@ The output is compliant with [CloudFront specifications](https://docs.aws.amazon
 The package can be installed via Composer:
 
 ```
-composer require dreamonkey/laravel-cloudfront-url-signer
+composer require hardevine/laravel-cloudfront-url-signer
 ```
 
 ## Configuration
